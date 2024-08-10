@@ -10,6 +10,7 @@
 - myth/auth vesion 1.2
 - dompdf vesion 3.0
 
-# Terdapat file migration dan seeder untuk database
+# Notes
+Terdapat file migration dan seeder untuk database
 - php spark migrate -all
 - php spark db:seed DatabaseSeeder
